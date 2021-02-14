@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://resume.io/r/rdqDrWIxl](https://resume.io/r/rdqDrWIxl)
 
-- ⚡ Fun fact **I'm a musician, funny person :)**
+- ⚡ Fun fact **I'm a musician, funny person, team player :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
