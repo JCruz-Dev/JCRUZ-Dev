@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **React, CSS, Nextjs, Gatsby, CSS in JS, UX/UI**
 
-- 📫 How to reach me **juancarloscruz278@gmail.com**
-
 - 📄 Know about my experiences [https://resume.io/r/rdqDrWIxl](https://resume.io/r/rdqDrWIxl)
 
 - ⚡ Fun fact **I'm a musician, funny person :)**
