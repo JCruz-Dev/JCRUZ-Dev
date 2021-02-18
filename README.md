@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [React Projects](https://github.com/JCruz-Dev/react-projects)
 
-- 🌱 I’m currently learning **Testing, Typescript, Vue, Angular**
+- 🌱 I’m currently learning **Testing, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/juank1791](https://github.com/juank1791)
 
