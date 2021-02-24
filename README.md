@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/juank1791" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="juank1791" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/lacremacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lacremacode" height="30" width="40" /></a> -->
+<a href="https://twitter.com/lacremacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lacremacode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juancarlos-cruz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juancarlos-cruz" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/lacremacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lacremacode" height="30" width="40" /></a> -->
+<a href="https://instagram.com/lacremacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lacremacode" height="30" width="40" /></a>
 <a href="https://dribbble.com/juancarloscruz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="juancarloscruz" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/c/ucmiakjd-p4idnl_skatku7q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucmiakjd-p4idnl_skatku7q" height="30" width="40" /></a> -->
 </p>
