@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Testing, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/juank1791](https://github.com/juank1791)
+- 👨‍💻 All of my projects are available at [https://github.com/JCruz-Dev](https://github.com/JCruz-Dev)
 
 - 💬 Ask me about **React, CSS, Nextjs, Gatsby, CSS in JS, UX/UI**
 
