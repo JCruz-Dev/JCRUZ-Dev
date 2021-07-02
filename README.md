@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JCruz-Dev](https://github.com/JCruz-Dev)
 
-- 💬 Ask me about **React, CSS, Nextjs, Gatsby, CSS in JS, UX/UI**
+- 💬 Ask me about **React, CSS, Nextjs, Gatsby, CSS in JS, UI**
 
 - 📄 Know about my experiences [https://resume.io/r/rdqDrWIxl](https://resume.io/r/rdqDrWIxl)
 
