@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, CSS, Nextjs, Gatsby, CSS in JS, UI**
 
-- 📄 Know about my experiences [https://resume.io/r/rdqDrWIxl](https://resume.io/r/rdqDrWIxl)
+<!-- - 📄 Know about my experiences [https://resume.io/r/rdqDrWIxl](https://resume.io/r/rdqDrWIxl) -->
 
 - ⚡ Fun fact **I'm a musician, funny person, team player :)**
 
