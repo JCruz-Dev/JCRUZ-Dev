@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Testing, Typescript**
 
-- Watch my CV online ➡️ [here](https://juancarloscruz.notion.site/juancarloscruz/Juan-Carlos-Cruz-f345969b9d064559b27830327a924df4) 
-
-- 👨‍💻 All of my projects are available at [https://github.com/JCruz-Dev](https://github.com/JCruz-Dev)
+- 👨‍💻 Watch my CV online ➡️ [here](https://juancarloscruz.notion.site/juancarloscruz/Juan-Carlos-Cruz-f345969b9d064559b27830327a924df4) 
 
 - 💬 Ask me about **React, CSS, Nextjs, CSS in JS, UI**
 
