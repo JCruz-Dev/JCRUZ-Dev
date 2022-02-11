@@ -1,5 +1,5 @@
 <h1 align="center">Hi human, I'm Juan Carlos Cruz!</h1>
-<h3 align="center">A Frontend Developer & Designer from Dominican Republic 🇩🇴</h3>
+<h3 align="center">A Frontend Developer with UI Design skills from Dominican Republic 🇩🇴</h3>
 
 - 🔭 I’m currently working on [React Projects](https://github.com/JCruz-Dev/react-projects)
 
