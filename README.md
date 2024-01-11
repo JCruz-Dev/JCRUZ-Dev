@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Testing, Typescript**
 
-- 👨‍💻 Watch website ➡️ [here](https://juancarloscruz.com/) 
+- 👨‍💻 website ➡️ [here](https://juancarloscruz.com/) 
 
 - 💬 Ask me about **React, CSS, Nextjs, CSS in JS, UI**
 
