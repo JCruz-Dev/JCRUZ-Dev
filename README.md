@@ -1,10 +1,6 @@
 <h1 align="center">Hi human, I'm Juan Carlos Cruz!</h1>
 <h3 align="center">A Frontend Developer with UI Design skills</h3>
 
-- 🔭 I’m currently working on [React Projects](https://github.com/JCruz-Dev/react-projects)
-
-- 🌱 I’m currently learning **Testing, Typescript**
-
 - 👨‍💻 website ➡️ [here](https://juancarloscruz.com/) 
 
 - 💬 Ask me about **React, CSS, Nextjs, CSS in JS, UI**
