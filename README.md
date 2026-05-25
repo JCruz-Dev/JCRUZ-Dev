@@ -1,4 +1,4 @@
-👋 Hey, I’m [Your Name]
+👋 Hey, I’m Juan Carlos.
 
 Frontend & Mobile Engineer specialized in React, React Native, and TypeScript.
 
@@ -117,10 +117,9 @@ My goal is to deliver solutions that not only work, but create impact.
 
 📫 Contact
 
-* LinkedIn: [Your LinkedIn]
-* Portfolio: [Your Portfolio]
-* Email: [Your Email]
-* X/Twitter: [Your Username]
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/juancarloscruzdev/)
+* Portfolio: [https://www.linkedin.com/in/juancarloscruzdev/](https://www.linkedin.com/in/juancarloscruzdev/)
+* Email: juancarloscruz.software@gmail.com
 
 ⸻
 
