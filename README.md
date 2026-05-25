@@ -25,14 +25,12 @@ I enjoy working on products where I can contribute beyond implementation — hel
 
 🧠 What I Bring to a Team
 
-✅ Modern frontend development with React and TypeScript
-✅ Robust mobile applications with React Native
-✅ Clean and scalable architecture
-✅ API and third-party service integrations
-✅ Performance and user experience optimization
-✅ Strong code organization and best practices
-✅ Fast problem-solving skills
-✅ Clear communication and product mindset
+- ✅ Modern frontend development with React and TypeScript
+- ✅ Robust mobile applications with React Native
+- ✅ Clean and scalable architecture
+- ✅ API and third-party service integrations
+- ✅ Fast problem-solving skills
+- ✅ Clear communication and product mindset
 
 ⸻
 
