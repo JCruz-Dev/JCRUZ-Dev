@@ -1,126 +1,66 @@
-👋 Hey, I’m Juan Carlos.
+👋 Hey, I’m [Your Name]
 
-Frontend & Mobile Engineer specialized in React, React Native, and TypeScript.
+Frontend & Mobile Engineer focused on React, React Native, and TypeScript.
 
-I build fast, scalable, and thoughtfully designed applications focused on user experience, performance, and clean architecture. I enjoy solving real-world problems with maintainable code and products people genuinely enjoy using.
+I build scalable, high-performance applications with clean architecture and great user experiences.
 
 ⸻
 
 🚀 About Me
 
-I’m a developer focused on building modern experiences for web and mobile.
+I enjoy building products that are fast, maintainable, and designed to scale.
 
-My strength is not just writing code. I also think deeply about:
+Beyond coding, I care deeply about:
 
-* Scalable architecture
 * Performance
-* Functional UX/UI
+* Clean architecture
+* UX/UI
 * Developer Experience
-* Code quality and maintainability
-* Building products that can grow without falling apart
+* Product thinking
 
-I enjoy working on products where I can contribute beyond implementation — helping with technical decisions, optimization, project structure, and product vision.
-
-⸻
-
-🧠 What I Bring to a Team
-
-- ✅ Modern frontend development with React and TypeScript
-- ✅ Robust mobile applications with React Native
-- ✅ Clean and scalable architecture
-- ✅ API and third-party service integrations
-- ✅ Fast problem-solving skills
-- ✅ Clear communication and product mindset
+I like solving real problems and contributing to both technical and product decisions.
 
 ⸻
 
-⚒️ Main Stack
+⚒️ Tech Stack
 
 Frontend
 
 * React
 * Next.js
 * TypeScript
-* JavaScript
-* Redux / Zustand
 * TailwindCSS
-* Styled Components
-* React Query / TanStack Query
+* Redux / Zustand
 
 Mobile
 
 * React Native
 * Expo
-* Native Modules
-* Navigation
-* Offline-first apps
-* Push Notifications
-* Deep Linking
 
-Backend & Other Tools
+Backend & Tools
 
 * Node.js
 * Firebase
 * Supabase
-* REST APIs
 * GraphQL
 * PostgreSQL
 * Git / GitHub
-* CI/CD
 
 ⸻
 
-📈 How I Work
+🧠 What I Bring
 
-I like building software with a strong focus on:
+- ✅ Scalable frontend architecture
+- ✅ High-quality mobile apps
+- ✅ Performance optimization
+- ✅ Clean and maintainable code
+- ✅ Fast problem solving
+- ✅ Product-oriented mindset
 
-* Scalability from day one
-* Reusable components
-* Maintainable codebases
-* Real-world performance
-* Smooth user experiences
-* Development best practices
-
-I’m always learning new technologies and improving how digital products are built.
-
-⸻
-
-🧩 What Makes Me Different
-
-I don’t only think like a developer.
-
-I think like someone who understands:
-
-* Product
-* Business
-* Users
-* Scalability
-* Real-world experience
-
-My goal is to deliver solutions that not only work, but create impact.
-
-⸻
-
-📊 Currently Focused On
-
-* Advanced frontend architecture
-* React Native performance
-* Application scalability
-* Frontend system design
-* AI integrations
-* Developer Experience
-* Backend Development
-
-⸻
 
 📫 Contact
 
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/juancarloscruzdev/)
-* Portfolio: [https://www.linkedin.com/in/juancarloscruzdev/](https://www.linkedin.com/in/juancarloscruzdev/)
-* Email: juancarloscruz.software@gmail.com
+* LinkedIn: [Your LinkedIn]
+* Portfolio: [Your Portfolio]
+* Email: [Your Email]
 
-⸻
-
-⚡ Philosophy
-
-“Great software is not just code that works. It’s code that scales, stays maintainable, and creates experiences people remember.”
