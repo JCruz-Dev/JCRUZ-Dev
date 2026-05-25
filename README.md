@@ -1,4 +1,4 @@
-👋 Hey, I’m [Your Name]
+👋 Hey, I’m Juan Carlos.
 
 Frontend & Mobile Engineer focused on React, React Native, and TypeScript.
 
