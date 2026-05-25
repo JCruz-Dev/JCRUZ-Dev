@@ -1,40 +1,129 @@
-<h1 align="center">Hi human, I'm Juan Carlos Cruz!</h1>
-<h3 align="center">A Frontend Developer with UI Design skills</h3>
+👋 Hey, I’m [Your Name]
 
-- 👨‍💻 website ➡️ [here](https://juancarloscruz.com/) 
+Frontend & Mobile Engineer specialized in React, React Native, and TypeScript.
 
-- 💬 Ask me about **React, CSS, Nextjs, CSS in JS, UI**
+I build fast, scalable, and thoughtfully designed applications focused on user experience, performance, and clean architecture. I enjoy solving real-world problems with maintainable code and products people genuinely enjoy using.
 
-<!-- - 📄 Know about my experiences [https://resume.io/r/rdqDrWIxl](https://resume.io/r/rdqDrWIxl) -->
+⸻
 
-- ⚡ Fun fact **I'm a musician, funny person, team player :)**
+🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://codepen.io/juank1791" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="juank1791" height="30" width="40" /></a> -->
-<!-- <a href="https://twitter.com/lacremacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lacremacode" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/juancarlos-cruz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juancarlos-cruz" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/lacremacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lacremacode" height="30" width="40" /></a> -->
-<a href="https://dribbble.com/juancarloscruz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="juancarloscruz" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/c/ucmiakjd-p4idnl_skatku7q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucmiakjd-p4idnl_skatku7q" height="30" width="40" /></a> -->
-</p>
+I’m a developer focused on building modern experiences for web and mobile.
 
-<h3 align="left">Languages:</h3>
-<p align="left"></a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-</p>
-<h3>Development Tools:</h3>
-<p><a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  </p>
-<h3 align="left">CSS / JS Frameworks:</h3>
-<p align="left"> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://miro.medium.com/max/1400/1*gxOA6-EF8P8vnYdk3Bc9bg.png" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-</p>
-<h3 align="left">Design Tools:</h3>
-<p><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcruz-dev&" alt="jcruz-dev" /></p>-->
+My strength is not just writing code. I also think deeply about:
+
+* Scalable architecture
+* Performance
+* Functional UX/UI
+* Developer Experience
+* Code quality and maintainability
+* Building products that can grow without falling apart
+
+I enjoy working on products where I can contribute beyond implementation — helping with technical decisions, optimization, project structure, and product vision.
+
+⸻
+
+🧠 What I Bring to a Team
+
+✅ Modern frontend development with React and TypeScript
+✅ Robust mobile applications with React Native
+✅ Clean and scalable architecture
+✅ API and third-party service integrations
+✅ Performance and user experience optimization
+✅ Strong code organization and best practices
+✅ Fast problem-solving skills
+✅ Clear communication and product mindset
+
+⸻
+
+⚒️ Main Stack
+
+Frontend
+
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* Redux / Zustand
+* TailwindCSS
+* Styled Components
+* React Query / TanStack Query
+
+Mobile
+
+* React Native
+* Expo
+* Native Modules
+* Navigation
+* Offline-first apps
+* Push Notifications
+* Deep Linking
+
+Backend & Other Tools
+
+* Node.js
+* Firebase
+* Supabase
+* REST APIs
+* GraphQL
+* PostgreSQL
+* Git / GitHub
+* CI/CD
+
+⸻
+
+📈 How I Work
+
+I like building software with a strong focus on:
+
+* Scalability from day one
+* Reusable components
+* Maintainable codebases
+* Real-world performance
+* Smooth user experiences
+* Development best practices
+
+I’m always learning new technologies and improving how digital products are built.
+
+⸻
+
+🧩 What Makes Me Different
+
+I don’t only think like a developer.
+
+I think like someone who understands:
+
+* Product
+* Business
+* Users
+* Scalability
+* Real-world experience
+
+My goal is to deliver solutions that not only work, but create impact.
+
+⸻
+
+📊 Currently Focused On
+
+* Advanced frontend architecture
+* React Native performance
+* Application scalability
+* Frontend system design
+* AI integrations
+* Developer Experience
+* Backend Development
+
+⸻
+
+📫 Contact
+
+* LinkedIn: [Your LinkedIn]
+* Portfolio: [Your Portfolio]
+* Email: [Your Email]
+* X/Twitter: [Your Username]
+
+⸻
+
+⚡ Philosophy
+
+“Great software is not just code that works. It’s code that scales, stays maintainable, and creates experiences people remember.”
