@@ -58,7 +58,6 @@ Backend & Tools
 
 📫 Contact
 
-* LinkedIn: [Your LinkedIn]
-* Portfolio: [Your Portfolio]
-* Email: [Your Email]
+* LinkedIn: [Link](https://www.linkedin.com/in/juancarloscruzdev/)
+* Portfolio: [link](https://www.juancarloscruz.com/)
 
