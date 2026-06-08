@@ -1,6 +1,4 @@
-👋 Hey, I’m Juan Carlos.
-
-Frontend & Mobile Engineer focused on React, React Native, and TypeScript.
+👋 Hey, I’m Juan Carlos. I'm a Software Engineer. 
 
 I build scalable, high-performance applications with clean architecture and great user experiences.
 
